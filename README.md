@@ -1,12 +1,12 @@
-# 📊 Excel Sales Data Cleaning & Analysis
+Excel Sales Data Cleaning & Analysis
 
-## 📌 Project Overview
+Project Overview
 
 This project focuses on cleaning, analyzing, and visualizing sales data using Microsoft Excel.
 
 The goal of this project is to transform raw sales data into meaningful business insights through data cleaning, formulas, Pivot Tables, and an interactive dashboard.
 
-## 🎯 Objectives
+🎯 Objectives
 
 * Clean and organize raw sales data
 * Remove duplicate records
@@ -17,7 +17,7 @@ The goal of this project is to transform raw sales data into meaningful business
 * Build a professional Excel dashboard
 * Generate useful business insights
 
-## 🛠️ Skills & Tools
+🛠️ Skills & Tools
 
 * Microsoft Excel
 * Data Cleaning
@@ -28,7 +28,7 @@ The goal of this project is to transform raw sales data into meaningful business
 * Data Visualization
 * Dashboard Creation
 
-## 📂 Project Structure
+📂 Project Structure
 
 ```text
 excel-sales-analysis/
@@ -45,7 +45,7 @@ excel-sales-analysis/
     └── dashboard.png
 ```
 
-## 🔄 Data Cleaning Process
+🔄 Data Cleaning Process
 
 The raw sales data was cleaned using the following steps:
 
@@ -57,7 +57,7 @@ The raw sales data was cleaned using the following steps:
 6. Applied appropriate formatting.
 7. Performed quality checks on the cleaned dataset.
 
-## 📈 Analysis Performed
+📈 Analysis Performed
 
 The cleaned data was analyzed using Pivot Tables to understand:
 
@@ -68,7 +68,7 @@ The cleaned data was analyzed using Pivot Tables to understand:
 * Total Orders
 * Average Order Value
 
-## 📊 Dashboard
+📊 Dashboard
 
 The final dashboard contains:
 
@@ -80,7 +80,7 @@ The final dashboard contains:
 * Sales by Region chart
 * Quantity Sold by Product chart
 
-## 💡 Key Insights
+💡 Key Insights
 
 The dashboard helps identify:
 
@@ -89,30 +89,30 @@ The dashboard helps identify:
 * Product-wise quantity performance
 * Overall sales performance
 
-## 📸 Project Screenshots
+📸 Project Screenshots
 
-### Raw Data
+Raw Data
 
 ![Raw Data](Screenshots/raw-data.png)
 
-### Cleaned Data
+Cleaned Data
 
 ![Cleaned Data](Screenshots/cleaned-data.png)
 
-### Pivot Analysis
+Pivot Analysis
 
 ![Pivot Analysis](Screenshots/pivot-analysis.png)
 
-### Final Dashboard
+Final Dashboard
 
 ![Dashboard](Screenshots/dashboard.png)
 
-## 👨‍💻 Author
+👨‍💻 Author
 
 **Arsath Hussain**
 
 Aspiring Data Analyst | Excel | Python | SQL | Power BI
 
-## 📌 Note
+📌 Note
 
 This is a learning project created to demonstrate practical data cleaning, analysis, and dashboard development using Microsoft Excel.
